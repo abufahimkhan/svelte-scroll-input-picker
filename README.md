@@ -1,3 +1,36 @@
+# 📅 Scroll Select DateTime Picker – Svelte 5
+
+A modern, mobile-friendly scroll-select **Date & Time Picker** built using **Svelte 5** and **Tailwind CSS**. Inspired by native iOS pickers, this component brings smooth UX with center-aligned selection, scroll inertia, and visual depth — perfect for forms, scheduling, or any modern UI.
+
+### 🚀 Features
+- 🔁 Native-style scroll selection (drag or wheel)
+- 📱 Mobile and desktop friendly
+- 🎨 Tailwind-powered dark theme design
+- 🧠 Built with Svelte 5 (RC) and reactivity primitives
+- 🔒 Smooth animations and accessibility-friendly focus states
+- 🧩 Fully customizable (months, years, hours, etc.)
+
+### 📸 Preview
+![Scroll Picker Demo](demo.gif)
+
+### 💡 Use Cases
+- Web/mobile apps with date input
+- Birthday pickers
+- Time scheduling interfaces
+- Calendar UIs
+
+### 📦 Technologies
+- Svelte 5 (RC)
+- Tailwind CSS
+- PostCSS
+- Vite
+
+---
+
+📂 **Structure**
+
+
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
